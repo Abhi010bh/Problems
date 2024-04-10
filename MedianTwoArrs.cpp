@@ -67,6 +67,6 @@ int main() {
     median = solution.findMedianSortedArrays(nums1, nums2);
     cout << "The median is: " << median << endl;
 
-    // Feel free to add more tests or to modify nums1 and nums2 to test different scenarios
+    
     return 0;
 }
